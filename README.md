@@ -16,7 +16,7 @@
 I have learned how to position different piece of same container, mobile first design with media queries, root variable basics and flexbox. 
 
 ```html
-<h1>Some CSS code I'm proud of</h1>
+Some CSS code I'm proud of
 ```
 ```css
 .container .stats {
